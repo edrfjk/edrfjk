@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Hello+👋,+I'm+Eidref+Jake;I'm+a+BSIT+Student;I+love+Web+Development+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hello+👋,+I'm+Eidref+Jake;I'm+a+3rd+Year+BSIT+Student;I+love+Web+Development+💻)](https://git.io/typing-svg)
 
 ---
 
@@ -33,3 +33,4 @@
 ![Eidref's GitHub stats](https://github-readme-stats.vercel.app/api?username=edrfjk&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edrfjk&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
