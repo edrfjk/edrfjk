@@ -1,16 +1,36 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Hello+👋,+I'm+Eidref Jake;I'm+a+BSIT+Student;I+love+Web+Development+💻)](https://git.io/typing-svg)
 
-<!--
-**edrfjk/edrfjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🎓 I’m currently studying at **ILOCOS SUR POLYTECHNIC STATE COLLEGE**
+- 🌱 I’m exploring **PHP, Python, JavaScript, and Laravel**
+- 📂 Check out my repos for small projects
+- 🎯 Goal: Become a **Full-stack developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with Me
+<p align="center">
+ <a href="https://instagram.com/edrf_jk"><img height="30" src="https://img.shields.io/badge/Instagram-Click-%23E4405F?logo=instagram&logoColor=white"></a>
+ <a href="mailto:edrfjk@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-Click-red"></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![E's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
