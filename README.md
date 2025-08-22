@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Hello+👋,+I'm+Eidref+Jake;I'm+a+3rd+Year+BSIT+Student;I+love+making+simple+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Hello👋,+I'm+Eidref+Jake;I'm+a+3rd+Year+BSIT+Student;I+love+making+simple+projects)](https://git.io/typing-svg)
 
 ---
 
@@ -8,18 +8,19 @@
 - 📂 Check out my repos for small projects
 - 🎯 Goal: Become a **Full-stack developer**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=edrfjk&theme=onestar&row=1&column=8)
-
-
----
-
 ### 🔗 Connect with Me
-<p align="center">
+<p align="left">
  <a href="https://instagram.com/edrf_jk"><img height="30" src="https://img.shields.io/badge/Instagram-Click-%23E4405F?logo=instagram&logoColor=white"></a>
  <a href="mailto:edrfjk@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-Click-red"></a>
 </p>
 
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=edrfjk&theme=tokyonight&row=1&column=8)
+
+
 ---
+
+
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -33,7 +34,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Eidref's GitHub stats](https://github-readme-stats.vercel.app/api?username=edrfjk&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edrfjk&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=edrfjk&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrfjk&layout=compact&theme=tokyonight" height="150"/>
+  
+</div>
