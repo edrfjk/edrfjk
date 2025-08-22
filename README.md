@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hello+👋,+I'm+Eidref+Jake;I'm+a+3rd+Year+BSIT+Student;I+love+Web+Development+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Hello+👋,+I'm+Eidref+Jake;I'm+a+3rd+Year+BSIT+Student;I+love+making+simple+projects)](https://git.io/typing-svg)
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
