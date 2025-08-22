@@ -8,6 +8,9 @@
 - 📂 Check out my repos for small projects
 - 🎯 Goal: Become a **Full-stack developer**
 
+![trophy](https://github-profile-trophy.vercel.app/?username=edrfjk&theme=onestar&row=1&column=8)
+
+
 ---
 
 ### 🔗 Connect with Me
