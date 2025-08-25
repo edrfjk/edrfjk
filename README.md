@@ -15,7 +15,8 @@
 </p>
 
 
-
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=edrfjk&theme=tokyonight&row=1&column=8)
 
 ---
 
