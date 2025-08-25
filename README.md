@@ -14,8 +14,7 @@
  <a href="mailto:edrfjk@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-Click-red"></a>
 </p>
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=edrfjk&theme=tokyonight&row=1&column=8)
+
 
 
 ---
